@@ -1,0 +1,23 @@
+{
+  "name": "golden-goat",
+  "version": "1.0.0",
+  "description": "Site for provistor.host",
+  "main": "hit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Provistor/golden-goat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Provistor/golden-goat/issues"
+  },
+  "homepage": "https://github.com/Provistor/golden-goat#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
